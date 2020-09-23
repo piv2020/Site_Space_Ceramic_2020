@@ -9991,7 +9991,7 @@ a.text-black:hover, a.text-black:focus {
   visibility: hidden !important;
 }
 
-@media print {
+/*@media print {
   *,
 *::before,
 *::after {
@@ -10314,4 +10314,4 @@ body {
 
 .footer {
   padding: 5rem 0;
-}*/
+}*/*/
